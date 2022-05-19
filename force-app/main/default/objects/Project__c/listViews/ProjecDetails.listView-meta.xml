@@ -10,5 +10,5 @@
         <field>EndProject__c</field>
         <operation>equals</operation>
     </filters>
-    <label>ProjecDetails</label>
+    <label>ProjectDetails</label>
 </ListView>
