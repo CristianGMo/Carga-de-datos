@@ -2,6 +2,8 @@
   "orgName": "cris company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
+  "language": "en_US",
+  "hasSampleData": false,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
